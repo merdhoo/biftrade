@@ -8,6 +8,6 @@ bifTrade is an investment and finance platform that helps our customers achieve 
 To create a platform that is loved by 10,000 satisfied customers and the community within one year.
 
 # Contact Us
-Instagram:@biftrade
+Instagram:@bifftrade
 
 # Thanks
